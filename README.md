@@ -1,4 +1,4 @@
-# McDonald's Store Reviews Sentiment Analysis
+# McDonald's Store Reviews Sentiment Analysis 
 
 ## Project Overview
 This project focuses on performing a detailed sentiment analysis of customer reviews for various McDonald's locations across the United States. The analysis aims to uncover insights into customer sentiments across different aspects such as service, food quality, and cleanliness.
